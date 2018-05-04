@@ -25,7 +25,7 @@ twitter_username: aruzikulov
 github_username:  aruzikulov
 future: true
 timezone: CST
-date: YYYY-MM-DD HH:MM:SS +/-TTTT
+date: 2014-04-18 11:30:00 +0800
 # Build settings
 markdown: kramdown
 theme: minima
