@@ -1,7 +1,7 @@
 ---
 title: Assalom AI!
 layout: post
-date: '2018-05-04 07:54:39 +0800'
+date: '2018-05-01 07:54:39 +0800'
 categories: aimaktab update
 ---
 
